@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaibhaRagavan
-- 👀 I’m interested in cloud concepts
-- 🌱 I’m currently learning devlopment tools and cloud
+- 👀 I’m interested in cloud concepts and AI
+- 🌱 I’m currently learning devlopment tools AI in cloud 
 
 <!---
 VaibhaRagavan/VaibhaRagavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
